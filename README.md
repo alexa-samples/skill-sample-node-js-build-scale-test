@@ -1,2 +1,5 @@
-# skill-sample-node-js-build-scale-test
-An Alexa skill sample based the fact skill to demonstrate load testing.
+Skill Sample Node Js Build Scale Test
+
+## License
+
+This library is licensed under the Amazon Software License.
