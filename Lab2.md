@@ -52,7 +52,7 @@ you built in [Task 1](/Lab1.md#task-1-deploy-code-to-lambda)
   6. Click on the **checkbox** next to 'AmazonDynamoDBReadOnlyAccess'
   7. Click 'Attach Policy' button
   8. Go back to the Lambda service and select the function called 'ALX402' (We created it in [Task 1](/Lab1.md#task-1-deploy-code-to-lambda))
-  9. Replace the 'GetFact' function with the following code:
+  9. Replace the 'GetFact' function with the following code (Note you must set view to RAW above before copying code):
       1. The function should start on line
   ```javascript
   'GetFact': function () {
