@@ -120,7 +120,7 @@ The Voice UI you built in
   30. Scroll back to the top
   31. Click '<- Method Execution'
   32. Click 'Test'
-  33. Paste the following objet in 'Request Body'
+  33. Paste the following object in 'Request Body'
 
 ```javascript
     {
@@ -133,7 +133,7 @@ The Voice UI you built in
   33. Click ':zap: Test' button
   34. On the top right you should see 'Status: 200'
   35. Make sure the 'Response Body' is '{}'
-  36. There will be an item in you DynamoDB table with 'test-invoke-request' as it's 'FactId'
+  36. There will be an item in your DynamoDB table with 'test-invoke-request' as its 'FactId'
 
 --------
 
@@ -142,6 +142,6 @@ The Voice UI you built in
 --------
 
 ### Extra Credit 1 : Add a Get method that returns all the facts  
-### Extra Credit 2 : Add a method to edit a single fact by providing it's FactId
+### Extra Credit 2 : Add a method to edit a single fact by providing its FactId
 
 --------
