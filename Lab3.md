@@ -22,7 +22,7 @@ The Voice UI you built in
   12. Click 'Add inline policy' (on the bottom right)
   13. Make sure 'Policy Generator' is selected and click the 'Select' button
   14. Select the 'Allow' radio button
-  15. From the 'AWS Service' dropdown select 'Amazon DynamoDB'
+  15. From the 'AWS Service' dropdown select 'DynamoDB'
   16. In the 'Actions' dropdown check the boxes for:
       1. 'GetItem'
       2. 'PutItem'
